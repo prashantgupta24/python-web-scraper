@@ -1,6 +1,6 @@
-A fun web scraper written in python to scrap car information from
+A fun web scraper written in python to scrap car information from this URL:
 
-`http://www.cars-data.com/en/sport-cars.html`
+http://www.cars-data.com/en/sport-cars.html
 
 # Main screen
 
