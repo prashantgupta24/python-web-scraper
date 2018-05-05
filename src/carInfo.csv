@@ -1,0 +1,222 @@
+Cars,Power,Year,Car type
+Ferrari LaFerrari,963,2013 - present,coupe
+Porsche 918 Spyder,887,2014 - 2016,convertible
+Ferrari F12 Berlinetta,740,2012 - present,coupe
+Lamborghini Aventador,700,2011 - present,coupe
+Mclaren 675,675,2015 - present,coupe
+Ferrari 488 GTB,670,2015 - present,coupe
+Ferrari 488 Spider,670,2015 - present,convertible
+Ferrari FF,660,2011 - 2016,coupe
+Ferrari Enzo,659,2002 - 2004,coupe
+Mclaren 650 Spider,650,2014 - present,coupe
+Mclaren 650,650,2014 - present,coupe
+Lamborghini Murcielago,640,2006 - 2011,coupe
+Lamborghini Murcielago Roadster,640,2007 - 2011,convertible
+Mercedes-Benz SLR McLaren Roadster,626,2007 - 2009,convertible
+Mercedes-Benz SLR McLaren,626,2003 - 2008,coupe
+Mclaren 12C Spider,625,2012 - 2014,coupe
+Ferrari 599,620,2006 - 2012,coupe
+Porsche Carrera GT,612,2003 - 2006,convertible
+Ferrari GTC4,610,2016 - present,coupe
+Lamborghini Huracan,610,2014 - present,coupe
+Aston Martin DB11 Coupe,608,2016 - present,coupe
+Mclaren 12C,600,2011 - 2014,coupe
+Rolls-Royce Wraith,593,2014 - present,coupe
+Lamborghini Murcielago Roadster,580,2004 - 2007,convertible
+Audi RS6 Avant,580,2008 - 2010,wagon
+Lamborghini Murcielago,580,2001 - 2006,coupe
+Aston Martin Vanquish,573,2012 - present,coupe
+Aston Martin Vanquish Volante,573,2014 - present,convertible
+Mercedes-Benz SLS AMG Roadster,571,2011 - 2014,convertible
+Mercedes-Benz SLS AMG,571,2010 - 2014,coupe
+Ferrari 458 Spider,570,2011 - 2015,convertible
+Rolls-Royce Dawn,570,2016 - present,convertible
+Mclaren 570,570,2015 - present,coupe
+Ferrari 458 Italia,570,2010 - 2015,coupe
+Nissan GT-R,570,2016 - present,coupe
+Cadillac CTS Wagon,564,2010 - 2015,wagon
+Cadillac CTS Coupe,564,2010 - 2015,coupe
+Ferrari California,560,2014 - present,convertible
+Audi RS6 Avant,560,2013 - 2014,wagon
+Audi RS7 Sportback,560,2015 - present,hatchback
+Bentley Continental GT,560,2003 - 2011,coupe
+Audi RS7 Sportback,560,2013 - 2014,hatchback
+Bentley Continental GTC,560,2006 - 2012,convertible
+Audi RS6 Avant,560,2015 - present,wagon
+Aston Martin V8 Coupe,558,1997 - 2001,coupe
+Lamborghini Diablo,550,2000 - 2001,coupe
+Jaguar F-type Coupe,550,2014 - 2017,coupe
+Jaguar F-type Convertible,550,2017 - present,convertible
+Jaguar XF Sportbrake,550,2012 - 2015,wagon
+Jaguar F-type Coupe,550,2014 - present,convertible
+Jaguar F-type Coupe,550,2017 - present,coupe
+Ferrari 612 Scaglietti,540,2004 - 2011,coupe
+Audi R8 Coupe,540,2016 - present,coupe
+Audi R8,540,2016 - present,coupe
+Mclaren 540,540,2015 - present,coupe
+Audi R8 Spyder,540,2016 - present,coupe
+Lamborghini Diablo,530,1999 - 2000,coupe
+Lamborghini Diablo,530,1990 - 1999,coupe
+Bentley Brooklands,530,2008 - 2011,coupe
+Porsche 911 Cabriolet,520,2012 - 2016,convertible
+Ferrari F50,520,1995 - 1998,coupe
+Lamborghini Gallardo Spyder,519,2006 - 2014,convertible
+Mercedes-Benz CL-class,517,2006 - 2010,coupe
+Aston Martin DBS Volante,517,2010 - 2012,convertible
+Aston Martin V12 Vantage Roadster,517,2012 - present,coupe
+Aston Martin DB9 Volante,517,2012 - 2016,convertible
+Aston Martin DB9 Roadster,517,2012 - present,convertible
+Mercedes-Benz SL-class,517,2008 - 2012,convertible
+Aston Martin DBS,517,2008 - 2012,coupe
+Aston Martin V12 Vantage Roadster,517,2012 - present,convertible
+Aston Martin V12 Vantage Coupe,517,2010 - present,coupe
+Aston Martin DB9 Coupe,517,2012 - 2016,coupe
+Mercedes-Benz SL-class,517,2006 - 2008,convertible
+Ferrari Superamerica F1,515,2005 - 2006,coupe
+Ferrari 575M Maranello,515,2002 - 2006,coupe
+Mercedes-Benz E-class Combi,514,2006 - 2009,wagon
+Jaguar XK Convertible,510,2011 - 2015,convertible
+Jaguar XK Coupe,510,2011 - 2015,coupe
+Jaguar XK Convertible,510,2009 - 2011,convertible
+Jaguar XK,510,2009 - 2011,coupe
+BMW 5-serie Touring,507,2007 - 2010,wagon
+Bentley Continental GT,507,2011 - present,coupe
+BMW 6-serie Cabrio,507,2004 - 2007,convertible
+Bentley Flying Spur,507,2013 - present,coupe
+Bentley Continental GTC,507,2012 - 2014,convertible
+BMW 6-serie,507,2004 - 2007,coupe
+Bentley Continental GT Convertible,507,2012 - present,convertible
+BMW 6-serie Cabrio,507,2007 - 2011,convertible
+BMW 6-serie,507,2007 - 2011,coupe
+Dodge Viper,500,2005 - 2008,convertible
+Mercedes-Benz CL-class,500,2002 - 2006,coupe
+Lamborghini Gallardo,500,2003 - 2014,coupe
+Aston Martin Virage,497,2012 - 2012,coupe
+Aston Martin Virage Volante,497,2012 - 2012,convertible
+Jaguar F-type Convertible,495,2013 - 2017,convertible
+Ferrari F430,490,2004 - 2010,coupe
+Ferrari F430 Spider,490,2005 - 2010,convertible
+Ferrari 550 Maranello,486,1996 - 2002,coupe
+Nissan GT-R,485,2009 - 2016,coupe
+Mercedes-Benz CLK-class,481,2005 - 2009,coupe
+Mercedes-Benz CLK-class Cabriolet,481,2005 - 2009,convertible
+Porsche 911 Cabriolet,480,2005 - 2010,convertible
+Cadillac ATS Coupe,479,2015 - present,coupe
+Ferrari F40,478,1988 - 1992,coupe
+Lexus RC,477,2015 - present,coupe
+Mercedes-Benz C-class Estate,476,2014 - present,wagon
+Mercedes-Benz E-class Combi,476,2003 - 2006,wagon
+Mercedes-Benz SL-class,476,2001 - 2006,convertible
+Mercedes-Benz C-class Cabriolet,476,2016 - present,convertible
+Mercedes-Benz AMG GT Roadster,476,2016 - present,convertible
+Mercedes-Benz C-class Coupe,476,2015 - present,coupe
+Porsche 911 Coupe,475,2011 - 2016,coupe
+Chevrolet Corvette Coupe,466,2014 - present,coupe
+Chevrolet Corvette Convertible,466,2014 - present,convertible
+Porsche Panamera,462,2016 - present,hatchback
+Mercedes-Benz AMG GT,462,2014 - present,coupe
+Ferrari California,460,2009 - 2014,convertible
+Rolls-Royce Phantom Coupe,460,2010 - present,coupe
+Rolls-Royce Phantom Drophead Coupe,460,2009 - present,coupe
+Mercedes-Benz C-class Estate,457,2011 - 2014,wagon
+Bentley Azure,457,2006 - 2011,coupe
+Mercedes-Benz C-class Estate,457,2007 - 2011,wagon
+Aston Martin V12 Vanquish,457,2001 - 2007,coupe
+Mercedes-Benz C-class Coupe,457,2011 - 2015,coupe
+Mercedes-Benz S-class Coupe,455,2014 - present,coupe
+Mercedes-Benz SL-class,455,2016 - present,convertible
+Mercedes-Benz S-class Cabriolet,455,2016 - present,convertible
+Chrysler Viper GTS,450,1997 - 2002,coupe
+Audi RS5 Coupe,450,2012 - 2015,coupe
+Cadillac XLR,450,2004 - 2009,convertible
+Aston Martin DB9,450,2004 - 2012,coupe
+Audi RS4 Avant,450,2012 - 2015,wagon
+Alfa Romeo 8C Spider,450,2010 - 2010,coupe
+BMW 6-serie Cabrio,450,2015 - present,convertible
+Audi S6 Avant,450,2014 - present,wagon
+Audi RS5 Coupe,450,2010 - 2012,coupe
+BMW 5-serie Gran Turismo,450,2013 - present,hatchback
+BMW 5-serie Touring,450,2013 - 2017,wagon
+BMW 6-serie Coupe,450,2015 - present,coupe
+Audi RS6 Avant,450,2002 - 2004,wagon
+Alfa Romeo 8C Competizione,450,2008 - 2008,coupe
+Audi S7 Sportback,450,2014 - present,hatchback
+Chrysler Viper GTS,450,1997 - 2002,coupe
+Aston Martin DB9 Volante,450,2004 - 2012,convertible
+Audi RS5 Cabriolet,450,2013 - 2015,convertible
+Ferrari 456,442,1994 - 2004,coupe
+Ferrari F512 M,441,1994 - 1996,coupe
+Maserati GranCabrio,440,2010 - present,convertible
+Chevrolet Corvette Coupe,437,2010 - 2014,coupe
+Chevrolet Corvette Convertible,437,2010 - 2014,convertible
+Audi S6 Avant,435,2006 - 2008,wagon
+Mercedes-Benz SL-class,435,2012 - 2016,convertible
+Marcos LM 500,435,1994 - 1998,coupe
+Mercedes-Benz CL-class,435,2010 - 2014,coupe
+Audi S6 Avant,435,2008 - 2011,wagon
+BMW 4-serie Cabrio,431,2014 - 2017,convertible
+BMW 4-serie Cabrio,431,2017 - present,convertible
+BMW 4-serie Coupe,431,2017 - present,coupe
+BMW 4-serie Coupe,431,2013 - 2017,coupe
+Porsche Panamera,430,2009 - 2013,hatchback
+Audi R8 Spyder,430,2010 - 2012,convertible
+Audi R8,430,2012 - 2015,coupe
+Porsche Panamera,430,2009 - 2013,coupe
+Audi R8 Spyder,430,2012 - 2015,convertible
+Porsche 911 Targa,430,2014 - 2016,coupe
+Aston Martin V8 Vantage Roadster,426,2007 - present,convertible
+Aston Martin V8 Vantage,426,2005 - present,coupe
+Noble M400,425,2005 - 2008,coupe
+Chrysler 300C Touring,425,2004 - 2011,wagon
+Ferrari 360 Modena,425,1999 - 2005,coupe
+Tesla Model S,422,2013 - 2016,hatchback
+Tesla Model S,422,2016 - present,hatchback
+Ford Mustang Fastback,421,2015 - present,coupe
+Mercedes-Benz SLK-class,421,2011 - 2016,convertible
+Ford Mustang Convertible,421,2015 - present,coupe
+Aston Martin DB7,420,1994 - 2004,coupe
+Jaguar XK Convertible,420,2006 - 2009,convertible
+BMW 3-serie Cabrio,420,2007 - 2010,convertible
+Jaguar XK,420,2006 - 2009,coupe
+Porsche 911 Cabriolet,420,2015 - present,convertible
+Porsche 911 Coupe,420,2015 - present,coupe
+Audi S6 Avant,420,2012 - 2014,wagon
+Porsche 911 Cabriolet,420,2001 - 2006,convertible
+BMW 3-serie Coupe,420,2010 - 2013,coupe
+Porsche 911 Targa,420,2015 - present,coupe
+Audi R8,420,2007 - 2012,coupe
+Aston Martin DB7 Volante,420,1996 - 2004,convertible
+Audi RS4 Avant,420,2006 - 2008,wagon
+BMW 3-serie Cabrio,420,2010 - 2013,convertible
+BMW 3-serie Coupe,420,2006 - 2010,coupe
+Porsche 911 Coupe,420,2000 - 2006,coupe
+Audi RS4 Cabriolet,420,2006 - 2008,convertible
+Audi S7 Sportback,420,2012 - 2014,hatchback
+Porsche Panamera,416,2013 - present,coupe
+Porsche Panamera,416,2013 - 2016,hatchback
+Porsche 911 Coupe,415,2004 - 2010,coupe
+Chrysler Viper,415,1993 - 2000,convertible
+Chrysler Viper,415,1993 - 2000,convertible
+Mercedes-Benz E-class Coupe,408,2009 - 2013,coupe
+Porsche 911 Coupe,408,2008 - 2013,coupe
+Porsche 911 Coupe,408,1993 - 1998,coupe
+Mercedes-Benz E-class Estate,408,2009 - 2013,wagon
+Mercedes-Benz E-class Cabriolet,408,2013 - present,convertible
+Mercedes-Benz CLS-class Shooting Brake,408,2012 - 2014,wagon
+Mercedes-Benz E-class Estate,408,2013 - 2016,wagon
+Mercedes-Benz E-class Cabriolet,408,2010 - 2013,convertible
+Porsche 911 Cabriolet,408,2008 - 2013,convertible
+Mercedes-Benz E-class Coupe,408,2013 - 2017,coupe
+Mercedes-Benz CLS-class Shooting Brake,408,2014 - present,wagon
+Volvo V90,407,2016 - present,wagon
+BMW 5-serie Gran Turismo,407,2009 - 2013,hatchback
+BMW 6-serie Cabrio,407,2011 - 2015,convertible
+BMW 6-serie Coupe,407,2011 - 2015,coupe
+BMW 5-serie Touring,407,2010 - 2013,wagon
+Bentley Continental,406,1994 - 2003,coupe
+Chevrolet Camaro Convertible,405,2011 - present,convertible
+Chevrolet Camaro Coupe,405,2011 - present,coupe
+Maserati GranTurismo,405,2007 - present,coupe
+Corvette C6 Coupe,404,2004 - 2009,coupe
+Corvette C6 Convertible,404,2005 - 2009,convertible
+Mercedes-Benz E-class Estate,401,2016 - present,wagon
