@@ -14,4 +14,14 @@ http://www.cars-data.com/en/sport-cars.html
 
 ## And for each page, I scrape all car names and information.
 
-(more on that coming soon)
+Voila!
+
+![](https://github.com/prashantgupta24/python-web-scraper/blob/master/images/csv.jpg)
+
+# Code
+
+The scraping and generating the csv is done through [this](https://github.com/prashantgupta24/python-web-scraper/blob/master/src/carinfo_scraper.ipynb) python script, which I have presented in the form of a `Jupyter` notebook. 
+
+The main function `gatherInfoFromURL` is present in [this](https://github.com/prashantgupta24/python-web-scraper/blob/master/src/gather_info.py) file, which scraps the data off the web pages.
+
+The plotting of various graphs is done on [this](https://github.com/prashantgupta24/python-web-scraper/blob/master/src/carinfo_plots.ipynb) Jupyter notebook.
