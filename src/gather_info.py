@@ -1,12 +1,12 @@
-from urllib.request import urlopen
+import requests
 from bs4 import BeautifulSoup
 
 def gatherInfoFromURL(url):
     pageRefs = []
     carInfo = {"cars": [], "year": [], "power": [], "carType": []}
 
-    html = urlopen(url)
-    html_soup = BeautifulSoup(html, "html.parser")
+    page_response = requests.get(url, timeout=5)
+    html_soup = BeautifulSoup(page_response.content, "html.parser")
 
     pageRefs.append(url)
     for x in html_soup.find("p", class_ = "links").find_all("a"):
@@ -15,8 +15,8 @@ def gatherInfoFromURL(url):
 
     for page in pageRefs:
 
-        html = urlopen(page)
-        html_soup = BeautifulSoup(html, "html.parser")
+        page_response = requests.get(page, timeout=5)
+        html_soup = BeautifulSoup(page_response.content, "html.parser")
 
         carContainers = html_soup.find("section", class_ = "models").find_all("div", class_ = "col-4")
         '''[<div class="col-4"> <a href="http://www.cars-data.com/en/ferrari-laferrari-2013/3783" title="Ferrari LaFerrari"> <img alt="Ferrari LaFerrari" src="http://www.cars-data.com/pictures/thumbs/350px/ferrari/ferrari-laferrari_3783_1.jpg" title="Ferrari LaFerrari"/> Ferrari LaFerrari</a>]
