@@ -35,3 +35,8 @@ The scraped data is present in [carInfo.csv](https://github.com/prashantgupta24/
 
 ## Plotting
 - The plotting of various graphs is done on [carinfo_plots.ipynb](https://github.com/prashantgupta24/python-web-scraper/blob/master/src/carinfo_plots.ipynb) Jupyter notebook.
+
+
+## Good reads
+- https://www.dataquest.io/blog/web-scraping-beautifulsoup/
+- https://hackernoon.com/web-scraping-tutorial-with-python-tips-and-tricks-db070e70e071
